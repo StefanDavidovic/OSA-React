@@ -114,5 +114,3 @@ export default class ArticleComponent extends React.Component{
     }
 
 }
-
-
